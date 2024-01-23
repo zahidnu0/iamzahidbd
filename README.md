@@ -62,7 +62,7 @@ SOFTWARE.
 
 Repo : <a href="https://github.com/zahidnu0/iamzahidbd"> Here </a>
 
-##### Modify History : H4CK3R => 🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽
+##### Modify History : => 🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽
 <div align="center">
 <h3>━━━━ Connect with me ━━━━</h3>
 <a href="https://fb.com/Iam.Zahid0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahid" height="30" width="40" /></a>
