@@ -5,13 +5,17 @@
 ### Installation :
 
 ```bash
-pkg update && pkg upgrade -y
-pkg install root-repo -y
-pkg install git tsu python wpa-supplicant pixiewps iw -y
-git clone https://github.com/zahidnu0/iamzahidbd.git 
-cd iamzahidbd 
-pip3 install -r requirements.txt
-chmod +x iamzahidbd.py
+• pkg install
+• pkg update
+• pkg install python
+• pkg install python2
+• pkg install root-repo -y
+• pkg install git tsu python wpa-supplicant pixiewps iw -y
+• git clone https://github.com/zahidnu0/iamzahidbd.git 
+• cd iamzahidbd 
+• pip3 install -r requirements.txt
+• chmod +x iamzahidbd.py
+• sudo python iamzahidbd.py -i wlan0 -K
 ```
 #### Help : `sudo python iamzahidbd.py --help`
 #### Example : `sudo python iamzahidbd.py -i wlan0 -K`
@@ -31,7 +35,7 @@ chmod +x iamzahidbd.py
 ### License
 
 ````
-iamzahidbd License
+🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽 (License)
 
 Copyright (c) 2024 🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽
 
