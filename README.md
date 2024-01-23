@@ -8,8 +8,8 @@
 pkg update && pkg upgrade -y
 pkg install root-repo -y
 pkg install git tsu python wpa-supplicant pixiewps iw -y
-git clone https://github.com/zahidnu0/iamzahidbd 
-cd wi-fuck 
+git clone https://github.com/zahidnu0/iamzahidbd.git 
+cd iamzahidbd 
 pip3 install -r requirements.txt
 chmod +x iamzahidbd.py
 ```
