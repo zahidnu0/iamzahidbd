@@ -997,7 +997,7 @@ class WiFiScanner:
   \ \ /\ / /| | |_  | |_____| |_| | / _ \| |   | ' /  
    \ V  V / | |  _| | |_____|  _  |/ ___ \ |___| . \  
     \_/\_/  |_|_|   |_|     |_| |_/_/   \_\____|_|\_\ 
-                                                  \n\t\t[\033[1;32m*\033[1;37m] Modified by : Zahid \n\t\t[\033[1;32m*\033[1;37m] Version     : 69.0.0 \n\t\t[\033[1;32m*\033[1;37m] Telegram    : @montouch \n''')
+                                                  \n\t\t[\033[1;32m*\033[1;37m] Modified by : 🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽 \n\t\t[\033[1;32m*\033[1;37m] Version     : 3.0 \n\t\t[\033[1;32m*\033[1;37m] Telegram    : @montouch \n''')
         networks = self.iw_scanner()
         if not networks:
             ani('[\033[1;31m-\033[1;37m] No WPS networks found!')
