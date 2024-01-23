@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Modify History : rofl0r => Biri_B@B@ => Mohammad_Alamin (Toxinum)
-# VERSION 1.0.1
+# Code History : 🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽
+# VERSION 3.0
 # Open Source Code.No Need More Modification.
 import sys, subprocess, os, tempfile, shutil, re, codecs, socket, pathlib, time, collections, statistics, collections, csv, http.client, marshal
 from time import sleep 
@@ -997,7 +997,7 @@ class WiFiScanner:
   \ \ /\ / /| | |_  | |_____| |_| | / _ \| |   | ' /  
    \ V  V / | |  _| | |_____|  _  |/ ___ \ |___| . \  
     \_/\_/  |_|_|   |_|     |_| |_/_/   \_\____|_|\_\ 
-                                                  \n\t\t[\033[1;32m*\033[1;37m] Modified by : Showrov \n\t\t[\033[1;32m*\033[1;37m] Version     : 69.0.0 \n\t\t[\033[1;32m*\033[1;37m] Telegram    : @montouch \n''')
+                                                  \n\t\t[\033[1;32m*\033[1;37m] Modified by : Zahid \n\t\t[\033[1;32m*\033[1;37m] Version     : 69.0.0 \n\t\t[\033[1;32m*\033[1;37m] Telegram    : @montouch \n''')
         networks = self.iw_scanner()
         if not networks:
             ani('[\033[1;31m-\033[1;37m] No WPS networks found!')
