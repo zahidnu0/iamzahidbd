@@ -31,7 +31,7 @@ chmod +x iamzahidbd.py
 ### License
 
 ````
-MIT License
+iamzahidbd License
 
 Copyright (c) 2024 🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽
 
@@ -61,6 +61,6 @@ Repo : <a href="https://github.com/zahidnu0/iamzahidbd"> Here </a>
 ##### Modify History : H4CK3R => 🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽
 <div align="center">
 <h3>━━━━ Connect with me ━━━━</h3>
-<a href="https://fb.coMontoucd0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahid" height="30" width="40" /></a>
+<a href="https://fb.com/Iam.Zahid0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahid" height="30" width="40" /></a>
 </div>
 <a href="https://github.com/zahidnu0">  <img align="center" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=sadman-11.wifi-hack"></a>
