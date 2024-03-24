@@ -16,6 +16,10 @@
 • pip3 install -r requirements.txt
 • chmod +x iamzahidbd.py
 • sudo python iamzahidbd.py -i wlan0 -K
+
+* For Run This Tools *
+• cd iamzahidbd
+• sudo python iamzahidbd.py -i wlan0 -K
 ```
 #### Help : `sudo python iamzahidbd.py --help`
 #### Example : `sudo python iamzahidbd.py -i wlan0 -K`
