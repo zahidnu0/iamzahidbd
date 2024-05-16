@@ -996,7 +996,7 @@ class WiFiScanner:
   \ \ /\ / /| | |_  | |_____| |_| | / _ \| |   | ' /  
    \ V  V / | |  _| | |_____|  _  |/ ___ \ |___| . \  
     \_/\_/  |_|_|   |_|     |_| |_/_/   \_\____|_|\_\ 
-                                                  \n\t\t[\033[1;32m*\033[1;37m] Modified By :    Zahid Hasan \n\t\t[\033[1;32m*\033[1;37m] Telegram    : @epitaph_zahid \n\t\t[\033[1;32m*\033[1;37m] TWitter     : Zahid_Ex \n\t\t[\033[1;32m*\033[1;37m] Version     : 5.0 (Latest) \n''')
+                                                  \n\t\t[\033[1;32m*\033[1;37m] Crafted By   : Zahid Hasan \n\t\t[\033[1;32m*\033[1;37m] Telegram    : @epitaph_zahid \n\t\t[\033[1;32m*\033[1;37m] TWitter     : Zahid_Ex \n\t\t[\033[1;32m*\033[1;37m] Version     : 5.0 (Latest) \n''')
         networks = self.iw_scanner()
         if not networks:
             ani('[\033[1;31m-\033[1;37m] No WPS networks found!')
