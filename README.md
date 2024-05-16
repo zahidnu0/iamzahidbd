@@ -22,14 +22,15 @@
 • sudo python iamzahidbd.py -i wlan0 -K
 ```
 
-**IF FAILED TURN OFF YOUR LOCATION & WIFI THEN TRY TO ATTACK.**
+**IF FAILED PLEASE TURN OFF YOUR LOCATION & WIFI THEN TRY TO ATTACK.**
 
 #### Help : `sudo python iamzahidbd.py --help`
 #### Example : `sudo python iamzahidbd.py -i wlan0 -K`
 
 #### Note: 
 + **First turn off your Wifi.**
-+ **Turn on Hotspot.**
++ **Turn Off your Location.**
++ **Some devices this tool not work Ex: (MTK Devices) Please use (Custom Kernel) then solve your problem.**
 - Show avaliable networks and start Pixie Dust attack on a specified network.
 - `sudo python iamzahidbd.py -i wlan0 -K`
 - - Start Pixie Dust attack on a specified BSSID:
