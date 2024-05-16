@@ -21,6 +21,9 @@
 • cd iamzahidbd
 • sudo python iamzahidbd.py -i wlan0 -K
 ```
+
+**IF FAILED TURN OFF YOUR LOCATION & WIFI THEN TRY TO ATTACK.**
+
 #### Help : `sudo python iamzahidbd.py --help`
 #### Example : `sudo python iamzahidbd.py -i wlan0 -K`
 
@@ -62,13 +65,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ````
 
-+ **IF FAILED TURN OFF LOCATION IF TURNED ON.**
++ **IF FAILED TURN OFF YOUR LOCATION & WIFI THEN TRY TO ATTACK.**
 
-Repo : <a href="https://github.com/zahidnu0/iamzahidbd"> Here </a>
+Repo : <a href="https://github.com/zahidnu0/iamzahidbd"> Click Here </a>
 
 ##### Modify History : => 🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽
 <div align="center">
 <h3>━━━━ Connect with me ━━━━</h3>
 <a href="https://fb.com/Iam.Zahid0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahid" height="30" width="40" /></a>
 </div>
-<a href="https://github.com/zahidnu0">  <img align="center" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=iamzahidbd"></a>
