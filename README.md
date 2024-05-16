@@ -1,6 +1,6 @@
 
 <h1 align="center">🆉🅰🅷🅸🅳 🅷🅰🆂🅰🅽</h1>
-<h4 align="center">Hack WIfi Using Termux! (Requires Root)</h4>
+<h4 align="center">Hack Wifi Using Termux! (Requires Rooted Device)</h4>
 
 ### Installation :
 
@@ -71,4 +71,4 @@ Repo : <a href="https://github.com/zahidnu0/iamzahidbd"> Here </a>
 <h3>━━━━ Connect with me ━━━━</h3>
 <a href="https://fb.com/Iam.Zahid0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahid" height="30" width="40" /></a>
 </div>
-<a href="https://github.com/zahidnu0">  <img align="center" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=sadman-11.wifi-hack"></a>
+<a href="https://github.com/zahidnu0">  <img align="center" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=iamzahidbd"></a>
