@@ -3,7 +3,6 @@
 <h4 align="center">Hack Wifi Using Termux! (Requires Rooted Device)</h4>
 
 ### Installation :
-
 ```bash
 • pkg install
 • pkg update
@@ -16,8 +15,9 @@
 • pip3 install -r requirements.txt
 • chmod +x iamzahidbd.py
 • sudo python iamzahidbd.py -i wlan0 -K
-
-* For Run This Tools *
+```
+__ To run the tool __
+```bash
 • cd iamzahidbd
 • sudo python iamzahidbd.py -i wlan0 -K
 ```
